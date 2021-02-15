@@ -1,0 +1,13 @@
+-----------------------
+ Booking ID : BOID11 
+-----------------------
+Flight No   : FL6055
+Name        : Mizan
+Address     : fdxgdf
+Passport NO : 4554364
+Age         : 22
+Gender      : 
+Mobile No   : 56456455
+Card Number : 6390104
+Paid        : 30000
+Booking Time: Wed Oct 17 15:47:57 2018
